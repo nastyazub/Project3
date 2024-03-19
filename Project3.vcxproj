@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="F.cpp" />
-    <ClCompile Include="F2.cpp" />
-    <ClCompile Include="i.h" />
-    <ClCompile Include="prog.cpp" />
-    <ClCompile Include="rrr.cpp" />
+    <ClCompile Include="G1.cpp" />
+    <ClCompile Include="G2.cpp" />
+    <ClCompile Include="head.h" />
+    <ClCompile Include="menu.cpp" />
+    <ClCompile Include="functions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

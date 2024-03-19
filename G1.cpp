@@ -1,7 +1,7 @@
-#include "i.h"
+#include "head.h"
 
 
-int F_main() {
+int G1_main() {
 	std::string n = start(); //начало, пишем имя
 
 	bool fl = true; //создаём флаг

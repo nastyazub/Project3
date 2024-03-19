@@ -1,9 +1,9 @@
 #include <cmath>
-#include "i.h"
+#include "head.h"
 
 using namespace std;
 
-int F2_main() {
+int G2_main() {
 
     std::string n = start(); //начало, пишем имя
     cout << "\nWhat number is missing in the progression?\n";

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "i.h"
+#include "head.h"
 
 int main() {
 
@@ -7,10 +7,10 @@ int main() {
 	int n;
 	std::cin >> n;
 	if (n == 1) {
-		F_main();
+		G1_main();
 	}
 	if (n == 2) {
-		F2_main();
+		G2_main();
 	}
 	return 0;
 }

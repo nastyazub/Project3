@@ -15,9 +15,9 @@ int NOK(int a, int b, int c);
 
 int number();
 
-int F_main();
+int G1_main();
 
-int F2_main();
+int G2_main();
 
 std::vector<int> step(int length);
 
