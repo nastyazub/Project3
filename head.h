@@ -21,4 +21,4 @@ int G2_main();
 
 std::vector<int> step(int length);
 
-void alg(int length, std::vector<int> p, int index);
+void alg(int length, std::vector<int> p, int ind);

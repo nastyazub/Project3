@@ -56,9 +56,9 @@ std::vector<int> step(int length) {
 }
 
 
-void alg(int length, std::vector<int> p, int index) {
+void alg(int length, std::vector<int> p, int ind) {
 	for (int i = 0; i < length; ++i) {
-		if (i == index) {
+		if (i == ind) {
 			std::cout << ".. ";
 		}
 		else {
