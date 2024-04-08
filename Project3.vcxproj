@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="G1.cpp" />
     <ClCompile Include="G2.cpp" />
+    <ClCompile Include="G3.cpp" />
     <ClCompile Include="head.h" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="functions.cpp" />

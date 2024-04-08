@@ -19,6 +19,7 @@ void que() {
 	std::cout << "Question: ";
 }
 
+
 void answ() {
 	std::cout << "Your answer: ";
 }
@@ -65,4 +66,13 @@ void alg(int length, std::vector<int> p, int ind) {
 			std::cout << p[i] << " ";
 		}
 	}
+}
+
+int is_simple(int n) {
+	for (int i = 2; i < n / 2; i++) {
+		if (n % i == 0) {
+			return 0;
+		}
+	}
+	return 1;
 }

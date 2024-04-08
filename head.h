@@ -19,6 +19,10 @@ int G1_main();
 
 int G2_main();
 
+int G3_main();
+
 std::vector<int> step(int length);
 
 void alg(int length, std::vector<int> p, int ind);
+
+int is_simple(int n);
